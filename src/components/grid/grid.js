@@ -11,11 +11,14 @@ function classgrid() {
       <div className="flex flex-col justify-center items-center mx-auto w-4/5 content">
         <div className="flex flex-col text-center mb-7">
           <div className="text-4xl text-classifyBlue font-bold mb-5">
-            Classes We Offer
+            What Matterport Offers
           </div>
-          <div className="md:text-left text-center text-lg">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incidid
+          <div className=" text-center text-lg">
+            Matterport is the leading spatial data company focused on digitizing
+            and indexing the built world. Our all-in-one 3D data platform
+            enables anyone to turn a space into an accurate and immersive
+            digital twin which can be used to design, build, operate, promote,
+            and understand any space.
           </div>
         </div>
         <div className="md:grid md:grid-cols-3 justify-center items-center gap-7">
