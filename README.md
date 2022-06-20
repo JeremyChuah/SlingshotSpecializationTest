@@ -6,11 +6,11 @@ This is the documentation for my Slingshot Frontend verification test
 ---
 
 Created using React Framework, and hosted through Heroku\
-Link : (https://sleepy-anchorage-11311.herokuapp.com/)
+Link : https://sleepy-anchorage-11311.herokuapp.com/
 
 ## Vidoe Demo of App
 ---
-google drive link : (https://drive.google.com/file/d/1ubeZo-LmBu3iLAeCVXdiLVYElMXSoLTA/view?usp=sharing)
+google drive link : https://drive.google.com/file/d/1ubeZo-LmBu3iLAeCVXdiLVYElMXSoLTA/view?usp=sharing
 
 ## About the project
 ---
