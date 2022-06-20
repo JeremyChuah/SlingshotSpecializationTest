@@ -48,3 +48,34 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ## Vidoe Demo of App
 ---
 google drive link : (https://drive.google.com/file/d/1ubeZo-LmBu3iLAeCVXdiLVYElMXSoLTA/view?usp=sharing)
+
+## Project documentation
+---
+
+## About the project
+---
+This project was developed using React.js and Tailwind.css and was meant to be a landing page for recently incubated YC startup, Matterport.
+
+## Built with 
+---
+* [React.js](https://reactjs.org/)
+* [Tailwind.css](https://tailwindcss.com/)
+
+## Installation
+---
+1. Clone the repo
+   ```sh
+   git clone https://github.com/JeremyChuah/SlingshotSpecializationTest.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. run npm start to start app on local host
+   ```sh
+   npm start
+   ```
+   
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
