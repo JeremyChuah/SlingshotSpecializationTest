@@ -1,10 +1,16 @@
-# Getting Started with Create React App
+# Slingshot Frontend Verification Test
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the documentation for my Slingshot Frontend verification test
 
-## Available Scripts
+## Webiste Link
+---
 
-In the project directory, you can run:
+Created usuing React Framework, and hotsed through Heroku\
+Link : (https://sleepy-anchorage-11311.herokuapp.com/)
+
+## Install and Set up Locally
+---
+Set up this react-app locally on your device with following scripts
 
 ### `npm start`
 
@@ -39,32 +45,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Vidoe Demo of App
+---
+google drive link : (https://drive.google.com/file/d/1ubeZo-LmBu3iLAeCVXdiLVYElMXSoLTA/view?usp=sharing)
