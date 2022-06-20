@@ -5,7 +5,7 @@ This is the documentation for my Slingshot Frontend verification test
 ## Webiste Link
 ---
 
-Created usuing React Framework, and hotsed through Heroku\
+Created using React Framework, and hosted through Heroku\
 Link : (https://sleepy-anchorage-11311.herokuapp.com/)
 
 ## Install and Set up Locally
